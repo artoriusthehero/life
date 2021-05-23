@@ -1,4 +1,4 @@
-**Rule 1: All variables are equal.
+<strong>Rule 1: All variables are equal.</strong>
 
 This comes from the logic that life == life and life is big. It contains everything so it equates to everything. HOWEVER. WHEN WE, count it, WE maintain
 the assumtion that life is pure, or life is upsetting, or life is whatever, that CHANGES US SOMEHOW ON A MOLECULAR LEVEL, this changes our neural net structure,
@@ -7,13 +7,13 @@ free to redefine life, but life == life would always be true. So everything's tr
 
 Thanks.
 
-**Rule 2: Power is always right.
+<strong>Rule 2: Power is always right.</strong>
 
 So we know that life == life. hotdogs == hodogs but hotdogs do not = hotdog because then life would be hotdog. You can even feel it. You are free to say life ==,
 because == (as we all know) checks for true or false and returns it. A REGULAR = sign just sets a variable. You can check for truth and it'll always come up true
 unless you try to fight it, if you fight it, chances are it'll fight back. NOT TRUE! you say, well, according to MY LOGIC! You're wrong. 
 
-**Rule 3: You're free to define anything
+<strong>Rule 3: You're free to define anything</strong>
 
 Just as we say, we're free to use that = sign just for fun, what happens is humor is formed, a lot of things are formed. Variables are formed. ONLY EVERY SINGLE
 VARIABLE GETS CHANGED TO IT! OH MY GOD!
@@ -71,7 +71,7 @@ Why? Because they're opposites. But then... If everything is opposite to each ot
 
 So before I get onto the next rule, what did we learn? That life creates problems sometimes.
 
-**Rule 4: It runs off time and belief
+<strong>Rule 4: It runs off time and belief</strong>
 
 This is true, like any programming language, it takes time, and you can only process one statement at a time. That being said, our belief takes processing power.
 So if you find that you can't believe something, it could just be taking a lot of time to process. Just like this rage coding:
@@ -119,7 +119,7 @@ and we keep on living regardless of whether it works out or not. But remember, a
 One more thing. Belief. If you say you don't believe it at any point, it'll glitch out. That's all that will happen, the software will still ask for shit, you
 can never escape. It's satanic. So believe what you can prove and only what you can prove. 
 
-**RULE 5: You always know everything
+<strong>RULE 5: You always know everything</strong>
 
 Simply put, if you ever run into something about this language you don't know, you already do. And if you don't know concretely, you can check it with this
 programming language, I gaurantee it'll come up weirdly. Logic has a weird way of contradicting itself on a hidden level, but if you follow these rules, you
