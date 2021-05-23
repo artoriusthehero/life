@@ -11,13 +11,13 @@ I recently had an outbreak that made this worthy for github, and no, it's not an
 Wait what? Life works? How do you know how life works? It's a programming language. It's a very simple one too, anyone could wrap their mind around it, at least to start, but figuring out that your logic needs work is where the fun comes in. 
 
 There are rules to this programming language:
-
-1. All variables are equal (life = everything)
-2. Power is always right and you have to fight for everything (but you never lose to chance unless you program chance. You will always lose to chance when you program for it. Because when there's a chance, you don't know.)
-3. You are free to define anything (functions, variables, etc.)
-4. It runs off time and belief
-5. You always know everything (This rule was brought in to say: if you don't know, you're wrong)
-
+```
+1. All variables are equal to themselves (life = life)
+2. Power is power
+3. You are free to define anything as anything. (anything else is a lie)
+4. It runs off time and belief forever
+5. You always know everything is equal to itself, because that's all you need to know. If you don't know this, you code wrong. (maybe you get lucky)
+```
 Lets say life is a pile of shit.
 You don't fully believe it, so the function is warped because life could be a hotdog, but we're not living in a hotdog so a part of you dies. But who killed it? Probably society, he's got a few notches on his belt. Where was I? I KNOW. I always know. We can say life is a pile of shit but we'll never fully believe it until we convert the idea into bullshit. Now we're saying "life is a construct I made up." And that would rest in such surity, you can live with it. We can even test it. 
 ```
@@ -43,6 +43,43 @@ EXCEPT OF COURSE:
 
 Have fun.
 
+ALSO, lets take everything.
+```
+function life() = a construct I made up;
+```
+No, you're wrong.
+```
+if (life() = a construct I made up){
+  everything = a construct I made up;
+}
+```
+Bullshit
+```
+Money(){
+  a construct I made up;
+}
+```
+get gud. YOU AREN'T 1337 SPEAKERS YET. EVEN IF YOU ARE READING THIS; WHOAA THIS IS A NEW CONCEPT; IT'S BASED; BUUUUUUUUUUUT: HOW WOULD WE CODE IT?
+
+Very simply( 
+  We don't. 
+  We just try to ruin it 
+  and come to the conclusion 
+  that it's unbeatable. 
+  Otherwise, we just lie about it.
+)
+
 -Quintin
 
 //End of Dev Log//
+//start of dev log//
+
+However, we can see that it works when it works.
+
+Some people have these ideas that are dragons, man. They come to me like shitty flash games that don't even start. And when your computer explodes due to logic
+loops or sequential shit, GOD GET'S SO MAD, 1337 speak hacker brigades rob your computer when you play the game. It's a flash game virus the guy had no idea
+he was making because he's been serially hacked came up with this brand new game he coded in darkness just to grace your computer with a collosal cluster fuck. All I can say is that if life is becoming a hassle, or at the simple truth that my computer is taking too long to load, it's wrong. Goddammit, if my computer that's supposed to be infinite crashes again, I'm gonna lose my marbles. THIS IS WHY WE JUST PROCESS THOUGHTS ON OUR COMPUTERS <strong>IN OUR MINDS</strong>.
+
+IN REAL LIFE, I WANT MY COMPUTER NOT TO BE MALFUNCTIONING WITH RAGE VIRUSES THAT MAKE MY HEART STOP. Now, I can't help it... I can't help being affected by life's many trojan horses... But <strong>WHY?</strong> It's because I'm not a very good programmer. In fact, the only terrifying shelved shit around all of this is peculiar. It's just scary that we've never figured out how we were programmed before we had computers. I hold my mouth up in terror at that. I goto bed thinking about this sobbing from laughter and thankfulness because we finally got answered question. AND I WAS THE ONE WHO FIGURED IT OUT.
+
+blow me.
