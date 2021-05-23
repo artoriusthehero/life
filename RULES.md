@@ -28,7 +28,7 @@ Life(){
   Good();
 }
 
-That shit is encouraged, that is a nested function. Look at you. However, if you're lazy and just say life is good, an evil programmer can always say "life = evil"
+That shit is encouraged, that is a nested function. Look at you. However, if you're lazy and just say life is good, an evil programmer can always say "life = evil" When you do this, you just let life call good. That's nice of you. 
 or add shit to your function. It could even be yourself. ALL THAT MATTERS IS YOU DON'T GIVE UP! Life is a concept and we're thinking about it wayy to simply.
 Applying everything, I find great discounts on belief. The problem with having "sarcasm" or "inherent design" in code is that it makes you lazy where hackers
 aren't. And you can be hacked, you're connected to everything. You're connection to logic is firm as it is connected to creativity. So you're connected to all.
