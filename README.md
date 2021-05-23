@@ -13,7 +13,7 @@ Wait what? Life works? How do you know how life works? It's a programming langua
 There are rules to this programming language:
 
 1. All variables are equal (life = everything)
-2. Power is always right and you have to fight for everything
+2. Power is always right and you have to fight for everything (but you never lose to chance unless you program chance. You will always lose to chance when you program for it. Because when there's a chance, you don't know.)
 3. You are free to define anything (functions, variables, etc.)
 4. It runs off time and belief
 5. You always know everything (This rule was brought in to say: if you don't know, you're wrong)
