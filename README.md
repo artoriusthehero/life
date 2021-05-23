@@ -35,7 +35,7 @@ Money(){
   a construct I made up;
 }
 
-Yeah... You even coded it... But now life = money. How do you like me now? Worst part is that people don't even take the logic that life is a construct you made up to heart before they get to that logic, it's a sheepish leap of faith. It's like learning about functions before walking. So you would be fine so long as you remember the original definition and kept it, but you could just say life is money and get slapped over the head because it makes no sense. And when I say slapped, I mean it. We're playing an RPG. Things fight us everywhere. Especially wrong concepts. 
+Yeah... You even coded it... But now life = money. How do you like me now? Worst part is that people don't even take the logic that "life is a construct you made up" to heart before they get to that logic, it's a sheepish leap of faith. It's like learning about functions before walking. So you would be fine so long as you remember the original definition and kept it, but you could just say life is money and get slapped over the head because it makes no sense. And when I say slapped, I mean it. We're playing an RPG. Things fight us everywhere. Especially wrong concepts. 
 
 It's beta years boys, I don't know what to say. 
 
