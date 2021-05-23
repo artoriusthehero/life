@@ -66,18 +66,20 @@ Life(){
 	}
 }
 Console: I have fear in my heart that this doesn't work.
-#We forgot to account for other
+#We forgot to account for other and add a switch case.
 Life(){
-	Good(){
-		**rage equation**
+	switch{
+		case Good(){
+			**rage equation**
+		}
+		case Bad(){
+			**rage equation**
+		}
+		case Other(){
+			**nice equation**
+		}
 	}
-	Bad(){
-		**rage equation**
-	}
-	Other(){
-		**nice equation**
-	}
-}
+}	
 ```
 So we can divert into this path of nested functions, and we're free to define it as we like, but for life to make sense, we have to keep them separate.
 Why? Because they're opposites. But then... If everything is opposite to each other, how does life work? *In the grey areas.
