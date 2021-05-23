@@ -7,7 +7,7 @@ free to redefine life, but life == life would always be true. So everything's tr
 
 Thanks.
 
-<strong>Rule 2: Power is always right.</strong>
+<strong>Rule 2: Power is always right and you have to fight for everything.</strong>
 
 So we know that life == life. hotdogs == hodogs but hotdogs do not = hotdog because then life would be hotdog. You can even feel it. You are free to say life ==,
 because == (as we all know) checks for true or false and returns it. A REGULAR = sign just sets a variable. You can check for truth and it'll always come up true
@@ -85,6 +85,8 @@ So we can divert into this path of nested functions, and we're free to define it
 Why? Because they're opposites. But then... If everything is opposite to each other, how does life work? *In the grey areas.
 
 So before I get onto the next rule, what did we learn? That life creates problems sometimes.
+
+And we have to fight those problems, don't we? Yes, but not with a sword, with a keyboard. It's like an RPG in your head, if you think one thing, everything will attack you to make sure you're right and one thing to keep in mind when you're fighting like that is that you better be prepared to feel bad just to make your point. It'll feel shitty sometimes, even when you know you're right. But if it feels shitty, you could just be a shitty programmer? Mkay? Like I had to rewrite ACTUAL code just to make it learn in my mind that there's a switch statement in life. And sure, you can columize it, but it's literally shit everywhere.
 
 <strong>Rule 4: It runs off time and belief</strong>
 
