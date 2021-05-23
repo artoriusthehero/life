@@ -20,21 +20,21 @@ There are rules to this programming language:
 
 Lets say life is a pile of shit.
 You don't fully believe it, so the function is warped because life could be a hotdog, but we're not living in a hotdog so a part of you dies. But who killed it? Probably society, he's got a few notches on his belt. Where was I? I KNOW. I always know. We can say life is a pile of shit but we'll never fully believe it until we convert the idea into bullshit. Now we're saying "life is a construct I made up." And that would rest in such surity, you can live with it. We can even test it. 
-
+```
 function life() = a construct I made up;
-
+```
 Well done! Our first "hello world." But what next? Now we test it.
-
+```
 if (life() = a construct I made up){
   everything = a construct I made up;
 }
-
+```
 Well that's the ticket, and you would actually be correct! So congratulations, you can take that peice of logic anywhere and hold it on your shoulder. Just as long as you're not breaking the rules or making any others. And remember, you always know everything because there can only be one definition. However, things get complicated when we start compiling money.
-
+```
 Money(){
   a construct I made up;
 }
-
+```
 Yeah... You even coded it... But now life = money. How do you like me now? Worst part is that people don't even take the logic that "life is a construct you made up" to heart before they get to that logic, it's a sheepish leap of faith. It's like learning about functions before walking. So you would be fine so long as you remember the original definition and kept it, but you could just say life is money and get slapped over the head because it makes no sense. And when I say slapped, I mean it. We're playing an RPG. Things fight us everywhere. Especially wrong concepts. 
 
 It's beta years boys, I don't know what to say. 
