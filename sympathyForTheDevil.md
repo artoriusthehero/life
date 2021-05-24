@@ -5,4 +5,4 @@ eDITS{
   }
 ```
 
-TL;DR: Don't change all = all. If you change it to hotdogs = spaghetti, you will lie. This will make your computer run slower. Unfortunately, it'll make you run slower too.
+TL;DR: Don't change all = all. If you change it to hotdogs = spaghetti, you will lie. This will make your computer run slower. Unfortunately, it'll make you run slower too. because it'll make your code fat? anyone?
