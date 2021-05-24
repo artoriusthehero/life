@@ -4,16 +4,18 @@
 
 So we've been playing the mind like pachinko when really it's a programming language. And I'm standing here like someone from red letter media, asked to give MY REVIEW. UUuuhhh;
 
-Wait what? Life works? How do you know how life works? It's a programming language. It's a very simple one too, anyone could wrap their mind around it, at least to start, but figuring out that your logic needs work is where the fun comes in. 
+So... IT'S A PROGRAMMING LANGUAGE YOU HAVE TO LEARN. I'm not saying you need it in order to live, but it certainly comes in handy.
 
-There are rules to this programming language:
+Here are the rules to it, very basic stuff that's gone over further in length in RULES.MD.
 ```
 1. All variables are equal to themselves (life = life)
 2. Power levels exist
 3. It runs off time and belief forever
 4. If you don't know, you're wrong about it. 
 ```
-get gud. YOU AREN'T 1337 SPEAKERS YET???? EVEN IF YOU ARE READING THIS; WHOAA THIS IS A NEW CONCEPT; IT'S BASED; BUUUUUUUUUUUT: HOW WOULD WE CODE IT?
+It's pretty 1337.
+
+But do we code it?
 ```
 Very simply( 
   We don't. 
@@ -38,6 +40,8 @@ Very unsimply(
   profit;
 )
 ```
+But more seriously, 
+
 -Quintin
 
 //End of Dev Log//
