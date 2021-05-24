@@ -7,7 +7,7 @@ So... IT'S A PROGRAMMING LANGUAGE YOU HAVE TO LEARN. I'm not saying you need it 
 
 Here are the rules to it, very basic stuff.
 ```
-1. It is what it is.
+1. The mind is always beyond our comprehension
 ```
 It's pretty 1337.
 
