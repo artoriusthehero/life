@@ -1,6 +1,7 @@
 Testing conventional wisdom:
 
-If we say: Rule whatever is that you're wrong if you don't know. Why is that?Because in a programming language, if the computer doesn't know something, it's because it's a bug. How do you remove it? Get rid of the thing that triggered it.
+If we say: Rule whatever is that you're wrong if you don't know. Why is that?Because in a programming language, 
+if the computer doesn't know something, it's because it's a bug. How do you remove it? Get rid of the thing that triggered it.
 
 I'm mad at her.
 
@@ -8,7 +9,8 @@ I don't know why
 
 But i'm gonna keep being mad at her.
 
-It's funny on a level the devil would laugh at blind. And he would have good reason because it's super simple stuff and nobody has ever thought of it before.
+It's funny on a level the devil would laugh at blind. And he would have good reason because 
+it's super simple stuff and nobody has ever thought of it before.
 
 Thank you,
 
