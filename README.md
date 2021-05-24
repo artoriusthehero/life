@@ -11,6 +11,7 @@ There are rules to this programming language:
 1. All variables are equal to themselves (life = life)
 2. Power levels exist
 3. It runs off time and belief forever
+4. If you don't know, you're wrong about it. 
 ```
 get gud. YOU AREN'T 1337 SPEAKERS YET???? EVEN IF YOU ARE READING THIS; WHOAA THIS IS A NEW CONCEPT; IT'S BASED; BUUUUUUUUUUUT: HOW WOULD WE CODE IT?
 ```
