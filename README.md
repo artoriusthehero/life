@@ -1,6 +1,5 @@
 # life (or "Sorry I didn't know what I was doing")
 
-//Dev Log 23rd MAY 2021//
 
 So we've been playing the mind like pachinko when really it's a programming language. And I'm standing here like someone from red letter media, asked to give MY REVIEW. UUuuhhh;
 
@@ -40,4 +39,3 @@ I can't read this shit...
 I can live.
 
 -Quintin
-//end of dev log//
