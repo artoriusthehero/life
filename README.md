@@ -6,12 +6,9 @@ So we've been playing the mind like pachinko when really it's a programming lang
 
 So... IT'S A PROGRAMMING LANGUAGE YOU HAVE TO LEARN. I'm not saying you need it in order to live, but it certainly comes in handy.
 
-Here are the rules to it, very basic stuff that's gone over further in length in RULES.MD.
+Here are the rules to it, very basic stuff.
 ```
-1. All variables are equal to themselves (life = life)
-2. Power levels exist
-3. It runs off time and belief forever
-4. If you don't know, you're wrong about it. 
+1. It is what it is.
 ```
 It's pretty 1337.
 
