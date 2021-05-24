@@ -24,30 +24,8 @@ Very simply(
   that it's unbeatable. 
   Otherwise, we just lie about it.
 )
-
-Very unsimply(
-  the mind works?;
-  it's all an rpg god created;
-  it's learning...;
-  it's being;
-  it's fucked;
-  it's mezmerizing;
-  it's powerful;
-  it controls the mind;
-  the mind is the very concept of greatness;
-  the mind is the very concept of anything;
-  ?????;
-  profit;
-)
 ```
 But more seriously, 
-
--Quintin
-
-//End of Dev Log//
-//start of dev log//
-
-However, we can see that it works when it works.
 
 Some people have these ideas that are dragons, man. They come to me like shitty flash games that don't even start. And when your computer explodes due to logic
 loops or sequential shit, GOD GET'S SO MAD, 1337 speak hacker brigades rob your computer when you play the game. It's a flash game virus the guy had no idea
