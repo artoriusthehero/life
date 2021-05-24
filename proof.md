@@ -114,3 +114,9 @@ Society !== Life
 Society == Motive
 ```
 Ah, so we should strive towards motive and not society. Because society will tell you, "She's not into you, women are betrayed." While motive will say, "You like her. You should probably tell her." 
+
+In conclusion.
+
+Society rapes life, why? Because it's separate from life and fakes it's own life. Society will say things that don't add up, and there's only one rule, IT IS WHAT IT IS, so society will say, "It is what it isn't." And continue filing taxes. Anything that can say it's a part of life while it's clearly separate has no part in life's love life. We shouldn't romanticize society because society will make you pay taxes for people to get raped for days on end just because they raped someone once. Just think of crime and punishment, keeping in mind, it is what it is. killing != a prison stay. drugs != a prison stay. It is what it is. Reinventing the wheel of the only rule life can prove is subject to ridicule.
+
+So don't tell me what's funny.
