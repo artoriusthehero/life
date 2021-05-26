@@ -8,6 +8,15 @@ So... IT'S A PROGRAMMING LANGUAGE YOU HAVE TO LEARN. I'm not saying you need it 
 Here are the rules to it, very basic stuff.
 ```
 1. The mind is always beyond our comprehension
+2. It is what it is.
+3. It's everything because everything is beyond our comprehension.
+4. We can comprehend anything
+5. Just because power levels exist, it does not mean all isn't equal.
+6. We use our heads to network
+7. We can create life ourselves
+8. Computers are inhumane
+9. Things mean things for reasons
+10. Life is mandatory because anything is possible
 ```
 It's pretty 1337.
 
